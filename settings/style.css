@@ -1,0 +1,7 @@
+.page-break {
+    page-break-before: always;
+}
+
+.hidden {
+    display: none;
+}
